@@ -1,0 +1,2 @@
+problem 486A
+link:https://codeforces.com/problemset/problem/486/A

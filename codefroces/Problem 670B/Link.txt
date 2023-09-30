@@ -1,0 +1,2 @@
+problem 670B
+link: https://codeforces.com/problemset/problem/670/B

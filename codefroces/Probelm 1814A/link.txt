@@ -1,0 +1,2 @@
+Probelm 1814A
+link: https://codeforces.com/problemset/problem/1814/A
